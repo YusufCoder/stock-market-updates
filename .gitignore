@@ -1,0 +1,12 @@
+target
+.idea
+*.iml
+tools
+git-*.properties
+*.un~
+*.swp
+
+mvnw
+mvnw.cmd
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
